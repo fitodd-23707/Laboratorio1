@@ -2,7 +2,7 @@
 ; Lab1_Sumador.asm
 ;
 ; Created: 6/02/2025 08:39:10
-; Author : Arnulfo Díaz
+; Author : Arnulfo DÃ­az
 ;
 
 .include "m328def.inc"
@@ -34,6 +34,13 @@ SETUP:
 	OUT		PORTB, R16
 
 	LDI		R17, 0x00
+
+	LDI		R16, (1 << CLKPCE)
+	STS		CLKPR, R16
+	LDI		R16, 0x04
+	STS		CLKPR, R16
+
+	LDI		R16, 0x00
 
 LOOP:
 	IN		R18, PINB // Guardando el estado de PORTB en R18
