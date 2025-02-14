@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328"</DEVICE>
+ <WORKING_DIR>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\m328def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\Debug\Lab1_Sumador.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab1_Sumador.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab1_Sumador.map</FILE>
+  <FILE>Lab1_Sumador.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\main.asm</FILE><LINE>20</LINE></SETUP>
+  <LOOP><FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\main.asm</FILE><LINE>38</LINE></LOOP>
+  <DELAY><FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\main.asm</FILE><LINE>98</LINE></DELAY>
+  <SUMAR1><FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\main.asm</FILE><LINE>67</LINE></SUMAR1>
+  <RESTAR1><FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\main.asm</FILE><LINE>75</LINE></RESTAR1>
+  <SUMAR2><FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\main.asm</FILE><LINE>71</LINE></SUMAR2>
+  <RESTAR2><FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\main.asm</FILE><LINE>79</LINE></RESTAR2>
+  <DOSUM><FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\main.asm</FILE><LINE>83</LINE></DOSUM>
+  <CARRY_SET><FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\main.asm</FILE><LINE>93</LINE></CARRY_SET>
+  <SUB_DELAY1><FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\main.asm</FILE><LINE>100</LINE></SUB_DELAY1>
+  <SUB_DELAY2><FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\main.asm</FILE><LINE>105</LINE></SUB_DELAY2>
+  <SUB_DELAY3><FILE>C:\Users\ffdd3\Documents\UVG_2025_1\Micros\Lab_1\Lab1_Sumador\Lab1_Sumador\main.asm</FILE><LINE>110</LINE></SUB_DELAY3>
+ </LABELS>
+</ASSEMBLER_INFO>
